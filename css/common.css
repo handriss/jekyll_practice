@@ -1,0 +1,10 @@
+html{
+    margin: 0;
+    paddin: 0;
+    font: normal 100%/1.4 Georgia, serif;
+}
+
+.current{
+    background-color: yellow;
+    color: white;
+}
